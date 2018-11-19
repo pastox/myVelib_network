@@ -1,0 +1,14 @@
+setup1 velib1 10 10 5 50
+adduser bob none velib1
+adduser vanessa vlibrecard velib1
+offline velib1 13
+offline velib1 16
+rentbike 0 14
+online velib1 13
+returnbike 0 13 2018 4 15 8 36
+displaystation velib1 13
+displayuser velib1 0
+sortstation velib1 mostusedsort
+display velib1
+exit
+

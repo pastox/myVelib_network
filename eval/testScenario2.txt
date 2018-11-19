@@ -1,0 +1,18 @@
+setup1 velib2 10 5 5 30
+adduser u0 randomcard velib2
+adduser u1 none velib2
+adduser u2 none velib2
+adduser u3 vlibrecard velib2
+adduser u4 vlibrecard velib2
+adduser u5 vmaxcard velib2
+adduser u6 vmaxcard velib2
+rentbike 0 15
+rentbike 1 15
+rentbike 2 15
+rentbike 3 15
+rentbike 4 15
+rentbike 5 15
+rentbike 6 12
+returnbike 5 16 2018 4 15 8 36
+exit
+
